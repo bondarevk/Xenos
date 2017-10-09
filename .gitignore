@@ -75,6 +75,7 @@ packages/
 #and files
 GeneratedFiles*/
 
+/.vs
 *.ggpk
 *.idb
 *.db
